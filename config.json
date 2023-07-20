@@ -1,0 +1,11 @@
+{
+  "servers": {
+	"simpleroleplay": {
+	  "name": "test server"
+	}
+  },
+  "web": {
+	"port": 8085,
+	"debug": true
+  }
+}
